@@ -12,10 +12,9 @@ authors:
     affiliation: Tecnologico Nacional de Mexico
 identifiers:
   - type: url
-    value: >-
-      https://github.com/marcoca712-gif/MSFPractica2/tree/main
+    value: 'https://github.com/marcoca712-gif/MSFPractica2'
     description: Repositorio Github
-repository-code: 'https://github.com/marcoca712-gif/MSFPractica2/tree/main'
+repository-code: 'https://github.com/marcoca712-gif/MSFPractica2'
 keywords:
   - Sistema Cardiovascular
   - Circuto RLC
