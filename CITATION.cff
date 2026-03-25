@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: Sistema Cardiovascular'
+message: ' Modelado de sistemas fisiologicos/ Ingenieria Biomedica'
+type: software
+authors:
+  - given-names: Marco A.
+    email: l21212145@tectijuana.edu.mx
+    family-names: Campoy
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/marcoca712-gif/MSFPractica2/tree/main
+    description: Repositorio Github
+repository-code: 'https://github.com/marcoca712-gif/MSFPractica2/tree/main'
+keywords:
+  - Sistema Cardiovascular
+  - Circuto RLC
+  - Controlador PID
+  - Modelo Matematico
+  - Simulacion numerica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-26'
